@@ -5,8 +5,8 @@ import {FormUserDetails} from './component/FormUserDetails'
 function App() {
   return (<div>
     <div className="App">
-    
-      <FormUserDetails/>
+    <UserForm/>
+      
      
     </div>   
     </div>
